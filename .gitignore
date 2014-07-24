@@ -1,0 +1,12 @@
+# Java class files
+*.class
+
+# IDE metadata dirs
+.idea
+*.iml
+META-INF/
+
+
+# gradle files
+.gradle
+build/
